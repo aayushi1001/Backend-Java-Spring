@@ -59,6 +59,5 @@ public class ScopedValueDemo {
             System.out.println("Back to outer    = " + USER.get()); // frank (restored)
         });
 
-
     }
 }
